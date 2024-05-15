@@ -11,12 +11,12 @@
 #oba dają ten sam efekt^^^
 
 
-# lista=["abba","mama","kwak","ojej","boom"]
-# print(lista[1:2])
-# print(lista[1:4])
-# print(lista[2:])
-# print(lista[:3])
-# print(lista[::-1])
+ lista=["abba","mama","kwak","ojej","boom"]
+ print(lista[1:2])
+ print(lista[1:4])
+ print(lista[2:])
+ print(lista[:3])
+ print(lista[::-1])
 
 
 # import random
